@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 # Run the script
 python who_cvd_risk_nonlab_south_asia.py
-
+---
 ## 🧩 Adaptability
 
 This calculator currently supports the South Asia WHO 2023 non-laboratory risk chart.
@@ -60,12 +60,12 @@ Planned future updates:
 🌍 Global regional support
 
 💻 Interactive dashboard
-
+---
 ## 📚 Citation
 
 If you use this project, please cite:
 World Health Organization (2023). WHO CVD Risk Charts – Non-Laboratory Version.
-
+---
 ##👨‍💻 Author & Contact
 
 Sangenis Ayao Assogba
@@ -73,3 +73,4 @@ Biostatistician | Epidemiologist | Health Data Scientist
 
 📍 West Africa (Togo) | 🇮🇳 Based in India
 📧 Sangenisassogba1@gmail.com
+---
