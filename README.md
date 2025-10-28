@@ -72,7 +72,7 @@ World Health Organization (2023). WHO CVD Risk Charts – Non-Laboratory Version
 
 ---
 
-##👨‍💻 Author & Contact
+## 👨‍💻 Author & Contact
 
 Sangenis Ayao Assogba
 Biostatistician | Epidemiologist | Health Data Scientist
